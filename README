@@ -1,0 +1,6 @@
+basscss-cp
+
+📃copies all the CSS files from basscss modules into a directory of your choice.
+
+Usage
+  bash basscss-cp.sh <output_dir_name>
