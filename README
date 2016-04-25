@@ -1,6 +1,6 @@
 basscss-cp
-
-📃copies all the CSS files from basscss modules into a directory of your choice.
+  Copies all the compiled CSS files from basscss modules into a directory of your choice. The legacy addons are ignored.
 
 Usage
+  npm install basscss basscss-basic basscss-addons
   bash basscss-cp.sh <output_dir_name>
