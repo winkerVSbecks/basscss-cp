@@ -3,5 +3,5 @@
   The legacy addons are ignored.
 
 Usage
-  npm install basscss basscss-basic basscss-addons
-  bash basscss-cp.sh <output_dir_name>
+  $ npm install basscss basscss-basic basscss-addons
+  $ bash basscss-cp.sh <output_dir_name>
